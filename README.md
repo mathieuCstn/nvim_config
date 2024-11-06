@@ -14,3 +14,30 @@
 # Credits
 
 1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
+
+---
+
+# Testes
+
+```php
+<?php
+
+echo 'Hello World !';
+```
+
+```lua
+println()
+```
+
+- [ ] One
+- [x] Two
+- [-] Three
+
+
+> [!NOTE]
+Important!
+
+> [!TIP]
+Important!
+
+
